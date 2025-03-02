@@ -1,0 +1,50 @@
+[
+    {
+        "energy": 56,
+        "transport": 89,
+        "diet": 44,
+        "footprint_score": 142.7
+    },
+    {
+        "energy": 5600000,
+        "transport": 700,
+        "diet": 900,
+        "footprint_score": 2802010.0
+    },
+    {
+        "energy": 560,
+        "transport": 700,
+        "diet": 900,
+        "footprint_score": 2290.0
+    },
+    {
+        "energy": 45,
+        "transport": 34,
+        "diet": 77,
+        "footprint_score": 186.7
+    },
+    {
+        "energy": 10,
+        "transport": 0,
+        "diet": 4,
+        "footprint_score": 13.0
+    },
+    {
+        "energy": 10,
+        "transport": 1,
+        "diet": 4,
+        "footprint_score": 13.3
+    },
+    {
+        "energy": 56,
+        "transport": 90,
+        "diet": 12,
+        "footprint_score": 79.0
+    },
+    {
+        "energy": 300,
+        "transport": 700,
+        "diet": 80,
+        "footprint_score": 520.0
+    }
+]
